@@ -1,5 +1,6 @@
 # 添加直连规则示例
 
+# 本地/局域网地址
 #payload:
 IP-CIDR,192.168.5.249/32,no-resolve
 IP-CIDR,192.168.5.4/32,no-resolve
@@ -18,5 +19,12 @@ IP-CIDR,24.253.0.0/16,no-resolve
 IP-CIDR,24.254.0.0/16,no-resolve
 IP-CIDR,44.233.68.19/32,no-resolve
 IP-CIDR,52.40.54.163/32,no-resolve
+
+
+#PT域名直连
 DOMAIN-SUFFIX,m-team.cc,DIRECT
+DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
+DOMAIN-SUFFIX,tracker.m-team.cc,DIRECT
+DOMAIN-SUFFIX,v6tracker.m-team.io,DIRECT
 DOMAIN-SUFFIX,totheglory.im,DIRECT
+DOMAIN-SUFFIX,tracker.totheglory.im,DIRECT
