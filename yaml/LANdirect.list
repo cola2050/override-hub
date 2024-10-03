@@ -10,8 +10,16 @@ IP-CIDR,192.168.5.103/32,no-resolve
 IP-CIDR,192.168.5.104/32,no-resolve
 IP-CIDR,192.168.5.105/32,no-resolve
 IP-CIDR,192.168.5.60/32,no-resolve
-IP-CIDR,192.168.5.66/32,no-resolve
+IP-CIDR,192.168.5.61/32,no-resolve
+IP-CIDR,192.168.5.62/32,no-resolve
+IP-CIDR,192.168.5.63/32,no-resolve
+IP-CIDR,192.168.5.64/32,no-resolve
 IP-CIDR,192.168.5.65/32,no-resolve
+IP-CIDR,192.168.5.66/32,no-resolve
+IP-CIDR,192.168.5.67/32,no-resolve
+IP-CIDR,192.168.5.68/32,no-resolve
+IP-CIDR,192.168.5.69/32,no-resolve
+IP-CIDR,192.168.5.70/32,no-resolve
 IP-CIDR,192.168.5.40/32,no-resolve
 IP-CIDR,123.126.131.45/32,no-resolve
 IP-CIDR,110.242.72.5/32,no-resolve
