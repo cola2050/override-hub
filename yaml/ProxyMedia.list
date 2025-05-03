@@ -279,7 +279,21 @@ DOMAIN-SUFFIX,kktv.me
 # 4gTV
 DOMAIN,4gtv.tv
 DOMAIN,cdn.hinet.net
-
+DOMAIN,ntdofifreepc.akamaized.net
+DOMAIN,ntdofifreepocpc.akamaized.net
+DOMAIN,ofissaifreepc.akamaized.net
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,ott.hinet.net
+DOMAIN-SUFFIX,insurancegogogo.com
+DOMAIN-KEYWORD,hamivideo
+DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+DOMAIN-SUFFIX,live.iptv365.org
+DOMAIN-SUFFIX,ntdofifreevcpc.akamaized.net
+DOMAIN-SUFFIX,tv.iill.top
+DOMAIN-SUFFIX,epg.v1.mk
 
 
 # LiTV
