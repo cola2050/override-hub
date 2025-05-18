@@ -30,9 +30,9 @@ IP-CIDR,52.40.54.163/32,no-resolve
 
 
 #PT域名直连
-DOMAIN-SUFFIX,m-team.cc,DIRECT
-DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
-DOMAIN-SUFFIX,tracker.m-team.cc,DIRECT
-DOMAIN-SUFFIX,v6tracker.m-team.io,DIRECT
-DOMAIN-SUFFIX,totheglory.im,DIRECT
-DOMAIN-SUFFIX,tracker.totheglory.im,DIRECT
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,v6tracker.m-team.io
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,tracker.totheglory.im
