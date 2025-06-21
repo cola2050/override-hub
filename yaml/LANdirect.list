@@ -19,6 +19,6 @@ DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,v6tracker.m-team.io
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,tracker.totheglory.im
-DOMAIN-SUFFIX,home.cola-service.com
-DOMAIN-SUFFIX,dahai.cola-service.com
-DOMAIN-SUFFIX,wg.cola-service.com
+#DOMAIN-SUFFIX,home.cola-service.com
+#DOMAIN-SUFFIX,dahai.cola-service.com
+#DOMAIN-SUFFIX,wg.cola-service.com
